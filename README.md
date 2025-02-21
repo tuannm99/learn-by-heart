@@ -1,23 +1,23 @@
 # Things to Learn by Heart as a Backend Engineer
 
-### Computer Organization and Architecture
+## Computer Organization and Architecture
 
-### Operating System
+## Operating System
 
-### Networking
+## Networking
 
-### Golang
+## Golang
 
-### Database
+## Database
 
-### Database Internal
+## Database Internal
 
-### Docker
+## Docker
 
-### Kubenetes
+## Kubenetes
 
-### Design Pattern
+## Design Pattern
 
-### Software Architecture pattern
+## Software Architecture pattern
 
-### System Design
+## System Design
